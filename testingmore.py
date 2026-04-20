@@ -33,5 +33,5 @@ while True:
         result = number1 / number2
         print (f"Answer = {result}")
         break
-    if operation != "add" or "subtract" or "multiply" or "divide":
+    else:
         print("Try again") 
